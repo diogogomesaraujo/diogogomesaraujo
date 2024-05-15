@@ -42,21 +42,39 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🎓  University Projects</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=diogogomesaraujo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Class</th>
+      <th>Languages Used</th>
+      <th>Grade</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/diogogomesaraujo/ScholarSphere">ScholarSphere</a></td>
+      <td>Object Oriented Programming</td>
+      <td>Java</td>
+      <td>4.5 / 5</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DiogoRodriguesz/DroneForge">Drone Forge</a></td>
+      <td>Web Programming</td>
+      <td>JavaScript, Node.js, MongoDB, React</td>
+      <td>NaN</td>
+    </tr>
+    <!-- Add more projects as needed -->
+  </tbody>
+</table>
