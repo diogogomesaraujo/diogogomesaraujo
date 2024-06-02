@@ -75,6 +75,13 @@
       <td>JavaScript, Node.js, MongoDB, React</td>
       <td>NaN</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/diogogomesaraujo/MoodDiary">Mood Diary</a></td>
+      <td>Human Interaction with Computers</td>
+      <td>Languages Used</td>
+      <td>NaN</td>
+    </tr>
     <!-- Add more projects as needed -->
   </tbody>
 </table>
+
