@@ -58,7 +58,7 @@
     <tr>
       <th>Project</th>
       <th>Class</th>
-      <th>Java, JavaFX, Python, Flask, Hugging Face</th>
+      <th>Languages Used</th>
       <th>Grade</th>
     </tr>
   </thead>
@@ -78,7 +78,7 @@
     <tr>
       <td><a href="https://github.com/diogogomesaraujo/MoodDiary">Mood Diary</a></td>
       <td>Human Interaction with Computers</td>
-      <td>Languages Used</td>
+      <td>Java, JavaFX, Python, Docker</td>
       <td>NaN</td>
     </tr>
     <!-- Add more projects as needed -->
