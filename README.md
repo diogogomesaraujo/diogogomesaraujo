@@ -58,7 +58,7 @@
     <tr>
       <th>Project</th>
       <th>Class</th>
-      <th>Languages Used</th>
+      <th>Java, JavaFX, Python, Flask, Hugging Face</th>
       <th>Grade</th>
     </tr>
   </thead>
