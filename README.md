@@ -70,12 +70,6 @@
       <td>NaN</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/diogogomesaraujo/MoodDiary">Mood Diary</a></td>
-      <td>Human Interaction with Computers</td>
-      <td>Java, JavaFX, Python, Docker</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/diogogomesaraujo/ScholarSphere">ScholarSphere</a></td>
       <td>Object Oriented Programming</td>
       <td>Java</td>
