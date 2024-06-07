@@ -64,12 +64,6 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/diogogomesaraujo/ScholarSphere">ScholarSphere</a></td>
-      <td>Object Oriented Programming</td>
-      <td>Java</td>
-      <td>4.5 / 5</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/DiogoRodriguesz/DroneForge">Drone Forge</a></td>
       <td>Web Programming</td>
       <td>JavaScript, Node.js, MongoDB, React</td>
@@ -80,6 +74,18 @@
       <td>Human Interaction with Computers</td>
       <td>Java, JavaFX, Python, Docker</td>
       <td>NaN</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/diogogomesaraujo/ScholarSphere">ScholarSphere</a></td>
+      <td>Object Oriented Programming</td>
+      <td>Java</td>
+      <td>4.5 / 5</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/diogogomesaraujo/shell">Customized Shell</a></td>
+      <td>Operating Systems</td>
+      <td>C</td>
+      <td>0.8 / 1</td>
     </tr>
     <!-- Add more projects as needed -->
   </tbody>
