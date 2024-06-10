@@ -70,7 +70,7 @@
       <td>NaN</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/diogogomesaraujo/shell">MoodDiary</a></td>
+      <td><a href="https://github.com/diogogomesaraujo/MoodDiary">MoodDiary</a></td>
       <td>Human Interaction with Computers</td>
       <td>Java, JavaFX, Python</td>
       <td>NaN</td>
