@@ -67,13 +67,13 @@
       <td><a href="https://github.com/DiogoRodriguesz/DroneForge">droneforge.</a></td>
       <td>Web Programming</td>
       <td>JavaScript, Node.js, MongoDB, React</td>
-      <td>NaN</td>
+      <td>19.4 / 20</td>
     </tr>
      <tr>
       <td><a href="https://github.com/diogogomesaraujo/MoodDiary">MoodDiary</a></td>
       <td>Human Interaction with Computers</td>
       <td>Java, JavaFX, Python</td>
-      <td>NaN</td>
+      <td>5.5 / 6</td>
     </tr>
     <tr>
       <td><a href="https://github.com/diogogomesaraujo/ScholarSphere">ScholarSphere</a></td>
