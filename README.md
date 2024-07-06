@@ -64,7 +64,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DiogoRodriguesz/DroneForge">droneforge.</a></td>
+      <td><a href="https://github.com/diogogomesaraujo/DroneForge">droneforge.</a></td>
       <td>Web Programming</td>
       <td>JavaScript, Node.js, MongoDB, React</td>
       <td>19.4 / 20</td>
