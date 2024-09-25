@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">My name is Diogo Gomes de Araújo and I am a CS Student at Universidade da Beira Interior<br><br>- 🔭 I’m working as a Back-End Developer in Star JE,<br>- 📚 I'm currently in the second year of my degree,<br>- ⚡ In my free time I also like to dable in the world of Graphic Design.</p>
+<p align="left">My name is Diogo Gomes de Araújo and I am a CS Student at Universidade da Beira Interior<br><br>- 🔭 I’m working as a Back-End Developer in Star JE,<br>- 📚 I'm currently in the third year of my degree,<br>- ⚡ In my free time I also like to dable in the world of Graphic Design.</p>
 
 ###
 
