@@ -49,6 +49,14 @@
 
 ###
 
+<h3 align="left">🎯 LeetCode</h3>
+
+###
+
+<img src="https://leetcard.jacoblin.cool/diogogomesaraujo?theme=dark&font=Allerta&ext=none" alt="LeetCode Stats" />
+
+###
+
 <h3 align="left">🎓  University Projects</h3>
 
 <table>
