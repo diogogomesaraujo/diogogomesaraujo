@@ -31,7 +31,7 @@
 
 ###
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,java,cpp,rust,python,javascript,nodejs,postgresql,mongodb)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,java,cpp,rust,python,ocaml,postgresql,docker)
 
 ###
 
