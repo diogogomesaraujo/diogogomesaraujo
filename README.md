@@ -1,8 +1,11 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/diogogomesaraujo/" target="_blank">
+     <a href="https://diogoaraujo.com" target="blank">
+     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio badge" /> 
+   </a>
+  <a href="https://www.linkedin.com/in/diogogomesaraujo/" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.behance.net/diogoaraujo14" target="_blank">
+  <a href="https://www.behance.net/diogoaraujo14" target="blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
 </div>
