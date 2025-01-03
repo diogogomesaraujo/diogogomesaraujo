@@ -62,7 +62,7 @@
       <td><a href="https://github.com/diogogomesaraujo/Jamble">Jamble</a></td>
       <td>Mobile Apps Programming</td>
       <td>Flutter, Node.js, PostgreSQL</td>
-      <td>NaN</td>
+      <td>19 / 20</td>
     </tr>
     <tr>
       <td><a href="https://github.com/diogogomesaraujo/DroneForge">droneforge.</a></td>
