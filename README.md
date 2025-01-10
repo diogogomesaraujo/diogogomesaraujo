@@ -58,6 +58,12 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href="https://github.com/diogogomesaraujo/space-invaders-3d">Space Invaders 3D</a></td>
+      <td>Computer Graphics</td>
+      <td>C++, OpenGL, Assimp, SFML</td>
+      <td>9.2 / 10</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/diogogomesaraujo/Jamble">Jamble</a></td>
       <td>Mobile Apps Programming</td>
