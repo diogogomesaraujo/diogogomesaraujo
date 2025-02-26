@@ -124,6 +124,11 @@
       <td>OCaml, Raylib</td>
     </tr>
      <tr>
+      <td><a href="https://github.com/diogogomesaraujo/sss">sss</a></td>
+      <td>A Shamir Secret Sharing Library for Rust's u64</td>
+      <td>Rust, Shamir Secret Sharing</td>
+    </tr>
+     <tr>
       <td><a href="https://github.com/diogogomesaraujo/hash-kitten">hash-kitten</a></td>
       <td>A fun CLI hashing tool written in rust (2k+ downloads).</td>
       <td>Rust, SHA256</td>
