@@ -124,7 +124,7 @@
       <td>OCaml, Raylib</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/diogogomesaraujo/sss">sss</a></td>
+      <td><a href="https://github.com/diogogomesaraujo/ss-sharing">ss-sharing</a></td>
       <td>A Shamir Secret Sharing Library for Rust's u64</td>
       <td>Rust, Shamir Secret Sharing</td>
     </tr>
