@@ -108,11 +108,6 @@
       <td>A fun text editor written in C to learn more about threads and string handling.</td>
       <td>C, Raylib</td>
     </tr>
-     <tr>
-      <td><a href="https://github.com/diogogomesaraujo/search-ml">search-ml</a></td>
-      <td>A search engine for OCaml modules.</td>
-      <td>OCaml, Menhir</td>
-    </tr>
     <tr>
       <td><a href="https://github.com/diogogomesaraujo/rust-shell">rust-shell</a></td>
       <td>A simple shell to learn more about Linux and Rust.</td>
@@ -121,6 +116,11 @@
     <tr>
       <td><a href="https://github.com/diogogomesaraujo/ocaml-game">ocaml-game</a></td>
       <td>A game in OCaml using Raylib.</td>
+      <td>OCaml, Raylib</td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/diogogomesaraujo/aryth-ml-tic">aryth-ml-tic</a></td>
+      <td>An interpreter for arythmetic functions made with Menhir and OCaml.</td>
       <td>OCaml, Raylib</td>
     </tr>
      <tr>
@@ -134,9 +134,9 @@
       <td>Rust, SHA256</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/diogogomesaraujo/aryth-ml-tic">aryth-ml-tic</a></td>
-      <td>An interpreter for arythmetic functions made with Menhir and OCaml.</td>
-      <td>OCaml, Raylib</td>
+      <td><a href="https://github.com/diogogomesaraujo/search-ml">search-ml</a></td>
+      <td>A search engine for OCaml modules.</td>
+      <td>OCaml, Menhir</td>
     </tr>
   </tbody>
 </table>
