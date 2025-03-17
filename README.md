@@ -124,9 +124,9 @@
       <td>OCaml, Raylib</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/diogogomesaraujo/thresh">thresh</a></td>
+      <td><a href="https://github.com/diogogomesaraujo/thresh-sig">thresh-sig</a></td>
       <td>A threshold signatures library for cryptography.</td>
-      <td>Rust, Shamir Secret Sharing</td>
+      <td>Rust, Shamir Secret Sharing, Schnorr Threshold Signatures</td>
     </tr>
      <tr>
       <td><a href="https://github.com/diogogomesaraujo/hash-kitten">hash-kitten</a></td>
