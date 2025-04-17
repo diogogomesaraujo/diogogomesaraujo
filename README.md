@@ -124,9 +124,9 @@
       <td>OCaml, Raylib</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/diogogomesaraujo/thresh-sig">thresh-sig</a></td>
-      <td>A threshold signatures library for cryptography.</td>
-      <td>Rust, Shamir Secret Sharing, Schnorr Threshold Signatures</td>
+      <td><a href="https://github.com/diogogomesaraujo/frost-sig">frost-sig</a></td>
+      <td>A FROST signature library built with Rust.</td>
+      <td>Rust, FROST, Cryptography</td>
     </tr>
      <tr>
       <td><a href="https://github.com/diogogomesaraujo/hash-kitten">hash-kitten</a></td>
