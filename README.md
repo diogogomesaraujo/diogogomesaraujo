@@ -47,50 +47,28 @@
 
 ###
 
-<h3 align="left">🎓  University Projects</h3>
+<h3 align="left">👨‍🎓 University Final Project</h3>
 
 <table>
   <thead>
     <tr>
       <th>Project</th>
-      <th>Class</th>
-      <th>Languages Used</th>
-      <th>Grade</th>
+      <th>Description</th>
+      <th>Technologies</th>
     </tr>
   </thead>
   <tbody>
-     <tr>
-      <td><a href="https://github.com/diogogomesaraujo/space-invaders-3d">Space Invaders 3D</a></td>
-      <td>Computer Graphics</td>
-      <td>C++, OpenGL, Assimp, SFML</td>
-      <td>9.2 / 10</td>
+            <tr>
+      <td><a href="https://github.com/diogogomesaraujo/aokiji">aokiji</a></td>
+      <td>A Rust-pure wallet for Nano group transactions using FROST.</td>
+      <td>Rust, Dioxus, Tokio</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/diogogomesaraujo/Jamble">Jamble</a></td>
-      <td>Mobile Apps Programming</td>
-      <td>Flutter, Node.js, PostgreSQL</td>
-      <td>19 / 20</td>
+      <td><a href="https://github.com/diogogomesaraujo/frost-sig">frost-sig</a></td>
+      <td>A threshold signature crate that implements the FROST protocol for Nano transactions.</td>
+      <td>Rust, Dalek, FROST, ED25519, Tokio</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/diogogomesaraujo/DroneForge">droneforge.</a></td>
-      <td>Web Programming</td>
-      <td>JavaScript, Node.js, MongoDB, React</td>
-      <td>19.4 / 20</td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/diogogomesaraujo/MoodDiary">MoodDiary</a></td>
-      <td>Human Interaction with Computers</td>
-      <td>Java, JavaFX, Python</td>
-      <td>5.5 / 6</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/diogogomesaraujo/ScholarSphere">ScholarSphere</a></td>
-      <td>Object Oriented Programming</td>
-      <td>Java</td>
-      <td>4.5 / 5</td>
-    </tr>
-    <!-- Add more projects as needed -->
-  </tbody>
+       </tbody>
 </table>
 
 <h3 align="left">🚀 Personal Projects</h3>
@@ -125,19 +103,9 @@
       <td>OCaml, Raylib</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/diogogomesaraujo/frost-sig">frost-sig</a></td>
-      <td>A FROST signature library built with Rust.</td>
-      <td>Rust, FROST, Cryptography</td>
-    </tr>
-     <tr>
       <td><a href="https://github.com/diogogomesaraujo/hash-kitten">hash-kitten</a></td>
-      <td>A fun CLI hashing tool written in rust (2k+ downloads).</td>
+      <td>A fun CLI hashing tool written in rust (4k+ downloads).</td>
       <td>Rust, SHA256</td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/diogogomesaraujo/search-ml">search-ml</a></td>
-      <td>A search engine for OCaml modules.</td>
-      <td>OCaml, Menhir</td>
     </tr>
   </tbody>
 </table>
