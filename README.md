@@ -98,8 +98,8 @@
       <td>OCaml, Raylib</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/diogogomesaraujo/aryth-ml-tic">aryth-ml-tic</a></td>
-      <td>An interpreter for arythmetic functions made with Menhir and OCaml.</td>
+      <td><a href="https://github.com/diogogomesaraujo/arith-ml-tic">arith-ml-tic</a></td>
+      <td>An interpreter for arithmetic functions made with Menhir and OCaml.</td>
       <td>OCaml, Raylib</td>
     </tr>
      <tr>
