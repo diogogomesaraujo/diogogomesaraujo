@@ -22,15 +22,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">My name is Diogo Gomes de Araújo and I am a CS Student at FCUP.<br><br>- 🔭 I'm interested in cryptography, functional programming, distributed systems and algorithms,<br>- 📚 I'm currently in the first year of my master's degree,<br>- ⚡ In my free time I also like to dable in the world of Graphic Design.</p>
+<p align="left">My name is Diogo Gomes de Araújo and I am a CS Student at FCUP.<br><br>- I'm interested in cryptography, functional programming, distributed systems and algorithms,<br>- I'm currently in the first year of my master's degree,<br>- In my free time I also like to dable in the world of Graphic Design.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools</h3>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h3 align="left">🎯 LeetCode</h3>
+<h3 align="left">LeetCode</h3>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h3 align="left">👨‍🎓 University Final Project</h3>
+<h3 align="left">University Final Project</h3>
 
 <table>
   <thead>
@@ -71,7 +71,7 @@
        </tbody>
 </table>
 
-<h3 align="left">🚀 Personal Projects</h3>
+<h3 align="left">Personal Projects</h3>
 
 <table>
   <thead>
