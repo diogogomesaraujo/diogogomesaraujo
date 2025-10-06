@@ -71,6 +71,27 @@
        </tbody>
 </table>
 
+<h3 align="left">Hackathons</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>Project</th>
+      <th>Technologies</th>
+     <th>Classification</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+     <td>IEEE RetroJam 2025</td>
+      <td><a href="https://github.com/diogogomesaraujo/sisyphus-retrojam-2025">Sisyphus</a></td>
+      <td>Rust, Raylib</td>
+     <td>2nd Place</td>
+    </tr>
+       </tbody>
+</table>
+
 <h3 align="left">Personal Projects</h3>
 
 <table>
