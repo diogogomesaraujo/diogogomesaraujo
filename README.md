@@ -108,6 +108,11 @@
       <td>A fun text editor written in C to learn more about threads and string handling.</td>
       <td>C, Raylib</td>
     </tr>
+     <tr>
+      <td><a href="https://github.com/diogogomesaraujo/lambda-calculus-interpreter">lambda-calculus-interpreter</a></td>
+      <td>An intepreter developed in OCaml for β-reductions</td>
+      <td>OCaml, Menhir</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/diogogomesaraujo/rust-shell">rust-shell</a></td>
       <td>A simple shell to learn more about Linux and Rust.</td>
@@ -121,7 +126,7 @@
      <tr>
       <td><a href="https://github.com/diogogomesaraujo/arith-ml-tic">arith-ml-tic</a></td>
       <td>An interpreter for arithmetic functions made with Menhir and OCaml.</td>
-      <td>OCaml, Raylib</td>
+      <td>OCaml, Menhir</td>
     </tr>
      <tr>
       <td><a href="https://github.com/diogogomesaraujo/hash-kitten">hash-kitten</a></td>
