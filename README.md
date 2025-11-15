@@ -109,8 +109,8 @@
       <td>C, Raylib</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/diogogomesaraujo/lambda-calculus-interpreter">lambda-calculus-interpreter</a></td>
-      <td>An intepreter developed in OCaml for β-reductions</td>
+      <td><a href="https://github.com/diogogomesaraujo/arith-ml-tic">arith-ml-tic</a></td>
+      <td>An interpreter for arithmetic functions made with Menhir and OCaml.</td>
       <td>OCaml, Menhir</td>
     </tr>
     <tr>
@@ -118,20 +118,20 @@
       <td>A simple shell to learn more about Linux and Rust.</td>
       <td>Rust, Linux</td>
     </tr>
+     <tr>
+      <td><a href="https://github.com/diogogomesaraujo/lambda-calculus-interpreter">lambda-calculus-interpreter</a></td>
+      <td>An intepreter developed in OCaml for β-reductions</td>
+      <td>OCaml, Menhir</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/diogogomesaraujo/ocaml-game">ocaml-game</a></td>
       <td>A game in OCaml using Raylib.</td>
       <td>OCaml, Raylib</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/diogogomesaraujo/arith-ml-tic">arith-ml-tic</a></td>
-      <td>An interpreter for arithmetic functions made with Menhir and OCaml.</td>
-      <td>OCaml, Menhir</td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/diogogomesaraujo/hash-kitten">hash-kitten</a></td>
-      <td>A fun CLI hashing tool written in rust (4k+ downloads).</td>
-      <td>Rust, SHA256</td>
+      <td><a href="https://github.com/diogogomesaraujo/hot_potato">hot_potato</a></td>
+      <td>Implementation of a Token Ring for Distributed Systems Class.</td>
+      <td>Rust, Tokio</td>
     </tr>
   </tbody>
 </table>
