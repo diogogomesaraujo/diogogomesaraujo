@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">My name is Diogo Gomes de Araújo and I am a CS Student at FCUP.<br><br>- I'm interested in cryptography, parallel and functional programming, distributed systems and algorithms,<br>- I'm currently in the first year of my master's degree,<br>- In my free time I also like to do run, listen to music and do graphic design.</p>
+<p align="left">My name is Diogo Gomes de Araújo and I am a CS Student at FCUP.<br><br>- I'm interested in like cryptography, parallel and functional programming, distributed systems and algorithms,<br>- I'm currently in the first year of my master's degree,<br>- In my free time I also like to do run, listen to music and do graphic design.</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,ocaml,java,c,mysql,python,docker,git)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,ocaml,java,c,mysql,python,docker,git,linux)
 
 
 ###
