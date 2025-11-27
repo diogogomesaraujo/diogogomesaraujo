@@ -130,7 +130,7 @@
     </tr>
      <tr>
       <td><a href="https://github.com/diogogomesaraujo/hot_potato">hot_potato</a></td>
-      <td>Implementation of a Token Ring for Distributed Systems Class.</td>
+      <td>Implementation of mutual exclusion using the Token Ring algorithm.</td>
       <td>Rust, Tokio</td>
     </tr>
   </tbody>
