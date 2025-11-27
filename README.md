@@ -129,7 +129,7 @@
       <td>OCaml, Raylib</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/diogogomesaraujo/hot_potato">hot_potato</a></td>
+      <td><a href="https://github.com/diogogomesaraujo/hot-potato-tosser">hot-potato-tosser</a></td>
       <td>Implementation of mutual exclusion using the Token Ring algorithm.</td>
       <td>Rust, Tokio</td>
     </tr>
