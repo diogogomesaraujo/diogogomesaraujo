@@ -47,7 +47,7 @@
 
 ###
 
-<h3 align="left">University Final Project</h3>
+<h3 align="left">Bachelor's Final Project</h3>
 
 <table>
   <thead>
@@ -92,6 +92,38 @@
        </tbody>
 </table>
 
+<h3 align="left">University Projects</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Class</th>
+      <th>Project</th>
+     <th>Description</th>
+     <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+     <td>Parallel Computation</td>
+      <td><a href="https://github.com/diogogomesaraujo/foxes-and-rabbits">foxes-and-rabbits</a></td>
+      <td>Implemented and parallelized a game similar to Conway's Game of Life.</td>
+      <td>C, OpenMP</td>
+    </tr>
+    <tr>
+     <td>Distributed Systems</td>
+      <td><a href="https://github.com/diogogomesaraujo/hot-potato-tosser">hot-potato-tosser</a></td>
+      <td>This project is an implementation of Mutual Exclusion with the Token Ring Algorithm.</td>
+      <td>Rust, Tokio, Sockets</td>
+    </tr>
+     <td>Distributed Systems</td>
+      <td><a href="https://github.com/diogogomesaraujo/p2p-data-aggregation">p2p-data-aggregation</a></td>
+      <td>Data Aggregation in a Peer to Peer network.</td>
+      <td>Rust, Tonic, gRPC, Tokio, Protobufs</td>
+    </tr>
+       </tbody>
+</table>
+
 <h3 align="left">Personal Projects</h3>
 
 <table>
@@ -120,18 +152,13 @@
     </tr>
      <tr>
       <td><a href="https://github.com/diogogomesaraujo/lambda-calculus-interpreter">lambda-calculus-interpreter</a></td>
-      <td>An intepreter developed in OCaml for β-reductions</td>
+      <td>An intepreter developed in OCaml for β-reductions.</td>
       <td>OCaml, Menhir</td>
     </tr>
     <tr>
       <td><a href="https://github.com/diogogomesaraujo/ocaml-game">ocaml-game</a></td>
       <td>A game in OCaml using Raylib.</td>
       <td>OCaml, Raylib</td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/diogogomesaraujo/hot-potato-tosser">hot-potato-tosser</a></td>
-      <td>Implementation of mutual exclusion using the Token Ring algorithm.</td>
-      <td>Rust, Tokio</td>
     </tr>
   </tbody>
 </table>
