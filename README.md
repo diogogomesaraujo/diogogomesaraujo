@@ -110,12 +110,19 @@
       <td>Implemented and parallelized a game similar to Conway's Game of Life.</td>
       <td>C, OpenMP</td>
     </tr>
+     <tr>
+     <td>Distributed Systems</td>
+      <td><a href="https://github.com/diogogomesaraujo/chat-with-tom">chat-with-tom</a></td>
+      <td>A Basic Chat Application Using Totally-Ordered Multicast.</td>
+      <td>Rust, Tonic, gRPC, Tokio, Protobufs</td>
+    </tr>
     <tr>
      <td>Distributed Systems</td>
       <td><a href="https://github.com/diogogomesaraujo/hot-potato-tosser">hot-potato-tosser</a></td>
       <td>This project is an implementation of Mutual Exclusion with the Token Ring Algorithm.</td>
       <td>Rust, Tokio, Sockets</td>
     </tr>
+     <tr>
      <td>Distributed Systems</td>
       <td><a href="https://github.com/diogogomesaraujo/p2p-data-aggregation">p2p-data-aggregation</a></td>
       <td>Data Aggregation in a Peer to Peer network.</td>
