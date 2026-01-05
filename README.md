@@ -119,13 +119,13 @@
     <tr>
      <td>Distributed Systems</td>
       <td><a href="https://github.com/diogogomesaraujo/hot-potato-tosser">hot-potato-tosser</a></td>
-      <td>This project is an implementation of Mutual Exclusion with the Token Ring Algorithm.</td>
+      <td>Implementation of Mutual Exclusion with the Token Ring Algorithm.</td>
       <td>Rust, Tokio, Sockets</td>
     </tr>
      <tr>
      <td>Distributed Systems</td>
       <td><a href="https://github.com/diogogomesaraujo/p2p-data-aggregation">p2p-data-aggregation</a></td>
-      <td>Data Aggregation in a Peer to Peer network.</td>
+      <td>Data Aggregation using Anti-Entropy algorithm in a P2P network.</td>
       <td>Rust, Tonic, gRPC, Tokio, Protobufs</td>
     </tr>
        </tbody>
