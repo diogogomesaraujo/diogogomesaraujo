@@ -112,7 +112,7 @@
     </tr>
      <tr>
      <td>Distributed Systems</td>
-      <td><a href="https://github.com/diogogomesaraujo/chat-with-tom">chat-with-tom</a></td>
+      <td><a href="https://github.com/diogogomesaraujo/chat-with-tom">talking-tom</a></td>
       <td>A Basic Chat Application Using Totally-Ordered Multicast.</td>
       <td>Rust, Tonic, gRPC, Tokio, Protobufs</td>
     </tr>
