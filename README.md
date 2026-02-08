@@ -142,6 +142,11 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href="https://github.com/diogogomesaraujo/chat-a-tui">chat-a-tui</a></td>
+      <td>A video chat that runs in the terminal built in Rust.</td>
+      <td>Rust, Tokio</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/diogogomesaraujo/funk-txt">funk-txt</a></td>
       <td>A fun text editor written in C to learn more about threads and string handling.</td>
