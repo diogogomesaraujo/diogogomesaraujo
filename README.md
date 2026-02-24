@@ -145,7 +145,7 @@
      <tr>
       <td><a href="https://github.com/diogogomesaraujo/chat-a-tui">chat-a-tui</a></td>
       <td>A video chat that runs in the terminal built in Rust.</td>
-      <td>Rust, Tokio</td>
+      <td>Rust, Tokio, QUIC</td>
     </tr>
     <tr>
       <td><a href="https://github.com/diogogomesaraujo/funk-txt">funk-txt</a></td>
