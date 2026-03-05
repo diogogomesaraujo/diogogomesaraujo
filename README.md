@@ -128,6 +128,12 @@
       <td>Data Aggregation using Anti-Entropy algorithm in a P2P network.</td>
       <td>Rust, Tonic, gRPC, Tokio, Protobufs</td>
     </tr>
+     <tr>
+     <td>Implementation of Programming Languages</td>
+      <td><a href="https://github.com/diogogomesaraujo/implementation_of_programming_languages">implementation_of_programming_languages</a></td>
+      <td>Interpreters and Compilers implemented in class.</td>
+      <td>OCaml, Lambda Calculus</td>
+    </tr>
        </tbody>
 </table>
 
@@ -161,11 +167,6 @@
       <td><a href="https://github.com/diogogomesaraujo/rust-shell">rust-shell</a></td>
       <td>A simple shell to learn more about Linux and Rust.</td>
       <td>Rust, Linux</td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/diogogomesaraujo/lambda-calculus-interpreter">lambda-calculus-interpreter</a></td>
-      <td>An intepreter developed in OCaml for β-reductions.</td>
-      <td>OCaml, Menhir</td>
     </tr>
     <tr>
       <td><a href="https://github.com/diogogomesaraujo/ocaml-game">ocaml-game</a></td>
