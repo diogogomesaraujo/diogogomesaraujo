@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">My name is Diogo Gomes de Araújo and I am a CS Student at FCUP.<br><br>- I'm interested in like cryptography, parallel and functional programming, distributed systems and algorithms,<br>- I'm currently in the first year of my master's degree,<br>- In my free time I also like to do bouldering, run, listen to music and dable graphic design.</p>
+<p align="left">My name is Diogo Gomes de Araújo and I am a CS Student at FCUP.<br><br>- I'm interested in like cryptography, functional programming, distributed systems, algorithms and compilers,<br>- I'm currently in the first year of my master's degree,<br>- In my free time I also like to do bouldering, run and listen to music.</p>
 
 ###
 
@@ -101,6 +101,7 @@
       <th>Project</th>
      <th>Description</th>
      <th>Technologies</th>
+     <th>Grade (0/20)</th>
     </tr>
   </thead>
   <tbody>
@@ -109,30 +110,35 @@
       <td><a href="https://github.com/diogogomesaraujo/foxes-and-rabbits">foxes-and-rabbits</a></td>
       <td>Implemented and parallelized a game similar to Conway's Game of Life.</td>
       <td>C, OpenMP</td>
+     <td>18</td>
     </tr>
      <tr>
      <td>Distributed Systems</td>
       <td><a href="https://github.com/diogogomesaraujo/chat-with-tom">talking-tom</a></td>
       <td>A Chat Application with Totally-Ordered Multicast Simulation.</td>
       <td>Rust, Tonic, gRPC, Tokio, Protobufs</td>
+     <td>19</td>
     </tr>
     <tr>
      <td>Distributed Systems</td>
       <td><a href="https://github.com/diogogomesaraujo/hot-potato-tosser">hot-potato-tosser</a></td>
       <td>Implementation of Mutual Exclusion with the Token Ring Algorithm.</td>
       <td>Rust, Tokio, Sockets</td>
+     <td>19</td>
     </tr>
      <tr>
      <td>Distributed Systems</td>
       <td><a href="https://github.com/diogogomesaraujo/p2p-data-aggregation">p2p-data-aggregation</a></td>
       <td>Data Aggregation using Anti-Entropy algorithm in a P2P network.</td>
       <td>Rust, Tonic, gRPC, Tokio, Protobufs</td>
+     <td>19</td>
     </tr>
      <tr>
      <td>Implementation of Programming Languages</td>
       <td><a href="https://github.com/diogogomesaraujo/implementation_of_programming_languages">implementation_of_programming_languages</a></td>
       <td>Interpreters and Compilers implemented in class.</td>
-      <td>OCaml, Lambda Calculus</td>
+      <td>OCaml, Lambda Calculus, SECD</td>
+     <td></td>
     </tr>
        </tbody>
 </table>
