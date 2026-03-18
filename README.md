@@ -135,9 +135,9 @@
     </tr>
      <tr>
      <td>Implementation of Programming Languages</td>
-      <td><a href="https://github.com/diogogomesaraujo/implementation_of_programming_languages">implementation_of_programming_languages</a></td>
+      <td><a href="https://github.com/diogogomesaraujo/fun">fun</a></td>
       <td>Interpreters and Compilers implemented in class.</td>
-      <td>OCaml, Lambda Calculus, SECD</td>
+      <td>OCaml, Lambda Calculus, SECD, Strict Evaluation</td>
      <td></td>
     </tr>
        </tbody>
