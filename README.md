@@ -106,6 +106,13 @@
   </thead>
   <tbody>
      <tr>
+     <td>Implementation of Programming Languages</td>
+      <td><a href="https://github.com/diogogomesaraujo/fun">fun</a></td>
+      <td>A compiler from an extended λ-calculus to SECD-machine instructions.</td>
+      <td>OCaml, Lambda Calculus, SECD, Strict Evaluation</td>
+     <td></td>
+    </tr>
+     <tr>
      <td>Parallel Computation</td>
       <td><a href="https://github.com/diogogomesaraujo/foxes-and-rabbits">foxes-and-rabbits</a></td>
       <td>Implemented and parallelized a game similar to Conway's Game of Life.</td>
@@ -132,13 +139,6 @@
       <td>Data Aggregation using Anti-Entropy algorithm in a P2P network.</td>
       <td>Rust, Tonic, gRPC, Tokio, Protobufs</td>
      <td>19</td>
-    </tr>
-     <tr>
-     <td>Implementation of Programming Languages</td>
-      <td><a href="https://github.com/diogogomesaraujo/fun">fun</a></td>
-      <td>Interpreters and Compilers implemented in class.</td>
-      <td>OCaml, Lambda Calculus, SECD, Strict Evaluation</td>
-     <td></td>
     </tr>
        </tbody>
 </table>
