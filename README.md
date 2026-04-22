@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">My name is Diogo Gomes de Araújo and I am a CS Student at FCUP.<br><br>- I'm interested in like cryptography, functional programming, distributed systems, algorithms and compilers,<br>- I'm currently in the first year of my master's degree,<br>- In my free time I also like to do bouldering, run and listen to music.</p>
+<p align="left">My name is Diogo Gomes de Araújo and I am a CS Student at FCUP.<br><br>- I'm interested in like cryptography, functional programming, distributed systems, algorithms and compilers,<br>- I'm currently in the first year of my master's degree,<br>- In my free time I also like to run, boulder and listen to music.</p>
 
 ###
 
@@ -110,6 +110,13 @@
       <td><a href="https://github.com/diogogomesaraujo/fun">fun</a></td>
       <td>A compiler from an extended λ-calculus to SECD-machine instructions.</td>
       <td>OCaml, Lambda Calculus, SECD, Strict Evaluation</td>
+     <td></td>
+    </tr>
+     <tr>
+     <td>Security of Systems and Data</td>
+      <td><a href="https://github.com/diogogomesaraujo/blocktion">blocktion</a></td>
+      <td>A public ledger for auctions built from scratch.</td>
+      <td>Rust, Docker, Tokio, Tonic, gRPC, Kadmemlia, PoW, Ed25519, BLAKE2</td>
      <td></td>
     </tr>
      <tr>
