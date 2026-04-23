@@ -116,7 +116,7 @@
      <td>Security of Systems and Data</td>
       <td><a href="https://github.com/diogogomesaraujo/blocktion">blocktion</a></td>
       <td>A public ledger for auctions built from scratch.</td>
-      <td>Rust, Docker, Tokio, Tonic, gRPC, Kadmemlia, PoW, Ed25519, BLAKE2</td>
+      <td>Rust, Docker, Tokio, Tonic, gRPC, Kademlia, PoW, Ed25519, BLAKE2</td>
      <td></td>
     </tr>
      <tr>
