@@ -113,10 +113,31 @@
      <td></td>
     </tr>
      <tr>
+     <td>Implementation of Programming Languages</td>
+      <td><a href="https://github.com/diogogomesaraujo/gc">gc</a></td>
+      <td>A set of garbage collectors for binary trees.</td>
+      <td>C, Mark&Sweep, Mark&Compact, Copy-Collection</td>
+     <td></td>
+    </tr>
+     <tr>
      <td>Security of Systems and Data</td>
       <td><a href="https://github.com/diogogomesaraujo/blocktion">blocktion</a></td>
       <td>A public ledger for auctions built from scratch.</td>
       <td>Rust, Docker, Tokio, Tonic, gRPC, Kademlia, PoW, Ed25519, BLAKE2</td>
+     <td></td>
+    </tr>
+     <tr>
+     <td>Advanced Topics in Databases</td>
+      <td><a href="https://github.com/diogogomesaraujo/portuguese-elections">portuguese-elections</a></td>
+      <td>Portuguese elections data visualization.</td>
+      <td>PostgreSQL, PostGIS, OCaml, Bonsai, Dream</td>
+     <td></td>
+    </tr>
+     <tr>
+     <td>Advanced Topics in Functional Programming</td>
+      <td><a href="https://github.com/diogogomesaraujo/toy-stm-stock-exchange">toy-stm-stock-exchange</a></td>
+      <td>A simple order book for a stock exchange to show use cases for STM.</td>
+      <td>Haskell, STM</td>
      <td></td>
     </tr>
      <tr>
