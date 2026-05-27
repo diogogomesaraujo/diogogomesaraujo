@@ -135,7 +135,7 @@
     </tr>
      <tr>
      <td>Advanced Topics in Functional Programming</td>
-      <td><a href="https://github.com/diogogomesaraujo/toy-stm-stock-exchange">toy-stm-stock-exchange</a></td>
+      <td><a href="https://github.com/diogogomesaraujo/t-order-book">t-order-book</a></td>
       <td>A simple order book for a stock exchange to show use cases for STM.</td>
       <td>Haskell, STM</td>
      <td></td>
