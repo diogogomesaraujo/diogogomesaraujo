@@ -127,13 +127,6 @@
      <td></td>
     </tr>
      <tr>
-     <td>Advanced Topics in Databases</td>
-      <td><a href="https://github.com/diogogomesaraujo/portuguese-elections">portuguese-elections</a></td>
-      <td>Portuguese elections data visualization.</td>
-      <td>PostgreSQL, PostGIS, OCaml, Bonsai, Dream</td>
-     <td></td>
-    </tr>
-     <tr>
      <td>Advanced Topics in Functional Programming</td>
       <td><a href="https://github.com/diogogomesaraujo/t-order-book">t-order-book</a></td>
       <td>A simple order book for a stock exchange to show use cases for STM.</td>
