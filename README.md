@@ -124,14 +124,14 @@
       <td><a href="https://github.com/diogogomesaraujo/blocktion">blocktion</a></td>
       <td>A public ledger for auctions built from scratch.</td>
       <td>Rust, Docker, Tokio, Tonic, gRPC, Kademlia, PoW, Ed25519, BLAKE2</td>
-     <td></td>
+     <td>19.1</td>
     </tr>
      <tr>
      <td>Advanced Topics in Functional Programming</td>
       <td><a href="https://github.com/diogogomesaraujo/t-order-book">t-order-book</a></td>
       <td>A simple order book for a stock exchange to show use cases for STM.</td>
       <td>Haskell, STM</td>
-     <td></td>
+     <td>18</td>
     </tr>
      <tr>
      <td>Parallel Computation</td>
