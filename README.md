@@ -110,14 +110,14 @@
       <td><a href="https://github.com/diogogomesaraujo/fun">fun</a></td>
       <td>A compiler from an extended λ-calculus to SECD-machine instructions.</td>
       <td>OCaml, Lambda Calculus, SECD, Strict Evaluation</td>
-     <td></td>
+     <td>18</td>
     </tr>
      <tr>
      <td>Implementation of Programming Languages</td>
       <td><a href="https://github.com/diogogomesaraujo/gc">gc</a></td>
       <td>A set of garbage collectors for binary trees.</td>
       <td>C, Mark&Sweep, Mark&Compact, Copy-Collection</td>
-     <td></td>
+     <td>18</td>
     </tr>
      <tr>
      <td>Security of Systems and Data</td>
