@@ -1,12 +1,27 @@
 <div align="center">
-     <a href="https://diogoaraujo.com" target="blank">
-     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio badge" /> 
-   </a>
-  <a href="https://www.linkedin.com/in/diogogomesaraujo/" target="blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://diogoaraujo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" height="25" alt="Portfolio" />
   </a>
-  <a href="https://www.behance.net/diogoaraujo14" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+
+  <a href="https://www.linkedin.com/in/diogogomesaraujo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+  </a>
+
+  <a href="https://www.behance.net/diogoaraujo14" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="25" alt="Behance" />
+  </a>
+</div>
+<div align="center">
+<a href="https://goodreads.com/diogogomesaraujo" target="_blank">
+    <img src="https://img.shields.io/badge/Books-372213?style=for-the-badge&logo=goodreads&logoColor=white" height="25" alt="Goodreads" />
+  </a>
+
+<a href="https://www.albumoftheyear.org/user/piriquito/" target="_blank">
+  <img src="https://img.shields.io/badge/Music-2A3439?style=for-the-badge" height="25" alt="Album of the Year" />
+</a>
+
+  <a href="https://letterboxd.com/diogogomesarauj/" target="_blank">
+    <img src="https://img.shields.io/badge/Movies-202830?style=for-the-badge&logo=letterboxd&logoColor=00E054" height="25" alt="Letterboxd" />
   </a>
 </div>
 
@@ -26,7 +41,7 @@
 
 ###
 
-<p align="left">My name is Diogo Gomes de Araújo and I am a CS Student at FCUP.<br><br>- I'm interested in cryptography, functional programming, distributed systems, algorithms and compilers,<br>- I'm currently in the first year of my master's degree,<br>- In my free time I also like to run, boulder and listen to music.</p>
+<p align="left">My name is Diogo Gomes de Araújo and I am a CS Student at FCUP.<br><br>- I'm interested in cryptography, functional programming, distributed systems, formal verification, algorithms and compilers,<br>- I'm currently in the first year of my master's degree,<br>- Besides programming I like to run, boulder, consume great art (books, movies and TV series) and drink a(n) (un)healthy amount of specialty coffee (preferrably a flat white with a rosetta on top).</p>
 
 ###
 
