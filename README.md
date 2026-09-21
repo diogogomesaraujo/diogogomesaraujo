@@ -120,6 +120,13 @@
     </tr>
   </thead>
   <tbody>
+         <tr>
+     <td>Security of Systems and Data</td>
+      <td><a href="https://github.com/diogogomesaraujo/blocktion">blocktion</a></td>
+      <td>A public ledger for auctions built from scratch.</td>
+      <td>Rust, Docker, Tokio, Tonic, gRPC, Kademlia, PoW, Ed25519, BLAKE2</td>
+     <td>19.1</td>
+    </tr>
      <tr>
      <td>Implementation of Programming Languages</td>
       <td><a href="https://github.com/diogogomesaraujo/fun">fun</a></td>
@@ -133,13 +140,6 @@
       <td>A set of garbage collectors for binary trees.</td>
       <td>C, Mark&Sweep, Mark&Compact, Copy-Collection</td>
      <td>18</td>
-    </tr>
-     <tr>
-     <td>Security of Systems and Data</td>
-      <td><a href="https://github.com/diogogomesaraujo/blocktion">blocktion</a></td>
-      <td>A public ledger for auctions built from scratch.</td>
-      <td>Rust, Docker, Tokio, Tonic, gRPC, Kademlia, PoW, Ed25519, BLAKE2</td>
-     <td>19.1</td>
     </tr>
      <tr>
      <td>Advanced Topics in Functional Programming</td>
