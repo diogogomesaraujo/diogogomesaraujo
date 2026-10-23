@@ -49,7 +49,7 @@
 
 ###
 
-![My Skills](https://skillicons.dev/icons?i=rust,ocaml,c,haskell,java,postgresql,git,linux)
+![My Skills](https://skillicons.dev/icons?i=rust,ocaml,c,haskell,java,postgresql,git,docker,linux)
 
 
 ###
