@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">My name is Diogo Gomes de Araújo and I am a CS Student at FCUP.<br><br>- I'm interested in cryptography, functional programming, distributed systems, formal verification, algorithms and compilers,<br>- I'm currently in the first year of my master's degree,<br>- Besides programming I like to run, boulder, consume great art (books, movies and TV series) and drink a(n) (un)healthy amount of specialty coffee (preferrably a flat white with a rosetta on top).</p>
+<p align="left">My name is Diogo Gomes de Araújo and I am a CS Student at FCUP.<br><br>- I'm interested in cryptography, functional programming, distributed systems, formal verification, algorithms and compilers,<br>- I'm currently in the first year of my master's degree,<br>- Besides programming I like to run, boulder, consume great art (books, movies and TV series) and drink a(n) (un)healthy amount of specialty coffee (preferably a flat white with a rosetta on top).</p>
 
 ###
 
