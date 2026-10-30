@@ -62,6 +62,27 @@
 
 ###
 
+<h3 align="left">Master's Thesis</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/diogogomesaraujo/gclock-model-checking">gclock-model-checking</a></td>
+      <td>Model Checking the UC-realization of the Global Clock Ideal Functionality in Quint.</td>
+      <td>Quint, UC, Model Checking, Formal Verification</td>
+    </tr>
+       </tbody>
+</table>
+
+###
+
 <h3 align="left">Bachelor's Final Project</h3>
 
 <table>
@@ -73,7 +94,7 @@
     </tr>
   </thead>
   <tbody>
-            <tr>
+      <tr>
       <td><a href="https://github.com/diogogomesaraujo/aokiji">aokiji</a></td>
       <td>A Rust-pure wallet for Nano group transactions using FROST.</td>
       <td>Rust, Dioxus, Tokio</td>
