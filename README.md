@@ -75,7 +75,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/diogogomesaraujo/gclock-model-checking">gclock-model-checking</a></td>
-      <td>Model-Checking the Realizability of the G-Clock Ideal Functionality in Quint</td>
+      <td>Model-Checking the Realizability of the G-Clock Ideal Functionality in Quint.</td>
       <td>Quint, UC, Model Checking, Formal Verification</td>
     </tr>
        </tbody>
