@@ -62,27 +62,6 @@
 
 ###
 
-<h3 align="left">Master's Thesis</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/diogogomesaraujo/gclock-model-checking">gclock-model-checking</a></td>
-      <td>Model-Checking the Realizability of the G-Clock Ideal Functionality in Quint.</td>
-      <td>Quint, UC, Model Checking, Formal Verification</td>
-    </tr>
-       </tbody>
-</table>
-
-###
-
 <h3 align="left">Bachelor's Final Project</h3>
 
 <table>
